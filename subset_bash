@@ -1,0 +1,2 @@
+subsample -n 100000 Phones_accelerometer.csv -r > Phones_accelerometer_sample.csv
+subsample -n 100000 Phones_gyroscope.csv -r > Phone_gyroscope_sample.csv
